@@ -1,0 +1,9 @@
+*.log
+*.tmp
+*.bak
+.DS_Store
+__pycache__/
+*.pyc
+app/data/
+*.sqlite
+*.db

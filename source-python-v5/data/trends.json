@@ -1,0 +1,20 @@
+{
+  "method": "weekly sampled-document-normalized frequency; no population trend claims",
+  "candidates": [
+    {
+      "term": "cooked",
+      "kind": "context_drift",
+      "score": 87.73,
+      "first_observed_week": "2023-W46",
+      "last_observed_week": "2023-W47",
+      "weeks_observed": 2,
+      "current_mentions": 0,
+      "current_distinct_authors": 0,
+      "previous_per_1000": 0.0,
+      "current_per_1000": 0.0,
+      "log2_growth": 0.0,
+      "eligible_this_week": false,
+      "note": "Observed in sampled corpus only; not the first use on the internet."
+    }
+  ]
+}
